@@ -15,6 +15,6 @@ Demonstration samples are available in Demos:
 2. origin folder : the corresponding wav files in ABC dataset
 *(The WAV files in the origin folder are dual-channel, with the two channels corresponding to bone-conducted speech and air-conducted speech.)*
 
-**Attention**:
+⚠️ **Attention**:
 Large-scale enhanced audio can be generated once the model weights are provided.
 ## Citation Protocol
