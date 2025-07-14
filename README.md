@@ -6,7 +6,7 @@
 
 ## Current Status
 ⚠️ ​**Temporary Restriction Notice**  
-The source code will be publicly released upon paper acceptance to comply with double-blind review requirements.
+The complete data processing scripts, training code, and final model weights will be publicly released upon paper acceptance to comply with double-blind review requirements.
 
 ## Supplemental Materials
 Demonstration samples are available in Demos:  
@@ -14,4 +14,6 @@ Demonstration samples are available in Demos:
 1. enhanced folder : the selected enhanced wav files (the using model is Mandarin-Mainland model) 
 2. origin folder : the corresponding wav files in ABC dataset
 *(The WAV files in the origin folder are dual-channel, with the two channels corresponding to bone-conducted speech and air-conducted speech.)*
+**Attention**:
+The full of large-scaled enhanced wavs can be generated if given the model weights.
 ## Citation Protocol
