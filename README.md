@@ -2,7 +2,7 @@
 # Code Availability Statement
 
 **This repository contains supplemental materials for the academic paper:**  
-*"[Leveraging Wav2Vec 2.0 Embeddings via Key-Value Memory Network for Refined Bone-Conducted Speech Restoration]"* (Under Review at [IEEE Signal Processing Letters])
+*"[Leveraging Wav2Vec 2.0 Embeddings via Key-Value Memory Network for Refined Bone-Conducted Speech Restoration]"* 
 
 ## Current Status
 ⚠️ ​**Temporary Restriction Notice**  
